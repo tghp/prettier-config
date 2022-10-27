@@ -1,6 +1,6 @@
 {
   "name": "@tghp/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Reusable prettier config",
   "main": "index.js",
   "author": "TGHP <glasshouse@tghp.co.uk>",
